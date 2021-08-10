@@ -186,7 +186,7 @@ h3{
 	box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 
-@media(max-width:  700px){      /* damit die drei boxen am handy auch gut aussehen */
+@media(max-width: 700px){      /* damit die drei boxen am handy auch gut aussehen */
 	.row{
 		flex-direction: column;
 	}
